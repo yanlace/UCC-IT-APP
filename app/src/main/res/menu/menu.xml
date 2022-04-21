@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/menu_courses"
+        android:icon="@drawable/ic_course_icon"
+        android:title="Courses"/>
+
+    <item android:id="@+id/menu_time_table"
+        android:icon="@drawable/ic_calender"
+        android:title="Time Table"/>
+
+    <item android:id="@+id/menu_admissions"
+        android:icon="@drawable/ic_school"
+        android:title="Admissions"/>
+
+    <item android:id="@+id/menu_faculty_directory"
+        android:icon="@drawable/ic_directory_icon"
+        android:title="Faculty Directory"/>
+
+
+
+
+
+</menu>
